@@ -15,7 +15,7 @@ public class App
     	CustomerService cust = (CustomerService)context.getBean("customerService");
 		// 如果那边是@Service("haha"),这样也行
 //		CustomerService cust = (CustomerService)context.getBean("haha");
-
+// 哒哒哒哒
     	System.out.println(cust);
     	
     }
